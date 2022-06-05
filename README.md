@@ -11,3 +11,8 @@ Created Heroku Deployment
 * Heroku CLI
 * VS Code
 
+## Team Members:
+
+- merkisam (Samuel)
+- schkev01 (Kevin)
+- hausejo1 (Jonas)
